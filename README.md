@@ -2,7 +2,7 @@
 
 **Journey to Love** is a 2D platformer built with modern C++ and the Raylib library. The player guides the main character through a challenging level filled with obstacles and checkpoints, with the ultimate goal of reaching the endpoint and reuniting with their love.
 
-https://github.com/user-attachments/assets/a75c9cc6-1190-4435-95f9-4a48d648af3c
+https://github.com/user-attachments/assets/47732319-eac5-4d48-a9ac-3f8805c4a61c
 
 -----
 
