@@ -33,7 +33,7 @@ This project is designed to be easily modifiable. You can customize the game's l
 
 ### 1\. **Editing the Level**
 
-The game level is defined in the `assets/Level.csv` file. You can open and edit this file with any CSV editor (free version of ModernCSV is recommended) or a simple text editor to create your own level.
+The game level is defined in the `assets/level.csv` file. You can open and edit this file with any CSV editor (free version of ModernCSV is recommended) or a simple text editor to create your own level.
 
 Each number in the CSV corresponds to a specific tile type:
   * **1**: Block (platform)
