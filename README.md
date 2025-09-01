@@ -10,11 +10,9 @@ https://github.com/user-attachments/assets/47732319-eac5-4d48-a9ac-3f8805c4a61c
 
 ## About This Project
 
-This project was developed as a personal exploration to strengthen my understanding of game development fundamentals outside of Unity and to practice modern C++ programming. With over 10 years of professional experience in Unity and C#, I wanted to step closer to the low-level side of game development by working directly with Raylib.
-The game makes use of Raylib’s systems for input handling, math structures (e.g., Vector2), rendering, and audio features.
+This project was developed as a personal exploration to strengthen my understanding of game development fundamentals outside of Unity and to practice modern C++ programming. With over 10 years of professional experience in Unity and C#, I wanted to step closer to the low-level side of game development by working directly with Raylib. The game makes use of Raylib’s modules for input handling, math structures (e.g., Vector2), rendering, and audio features.
 
-Building everything from scratch allowed me to focus on fundamentals such as game loop structure, collision detection, and state management without relying on a full engine.
-I’m sharing this as both a record of learning and a demonstration of adaptability. Feedback on design, structure, or implementation is very welcome as I continue expanding my C++ and engine-level skills alongside my Unity expertise.
+By building the core game systems from scratch, I was able to focus on fundamentals such as the game loop, collision detection, and state management without relying on a full engine. I’m sharing this as both a record of learning and a demonstration of adaptability. Feedback on design, structure, or implementation is very welcome as I continue expanding my C++ and engine-level skills alongside my Unity expertise.
 
 -----
 
